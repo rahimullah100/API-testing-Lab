@@ -1,0 +1,4 @@
+edu\ku\campushub_api\CampushubApiApplication.class
+edu\ku\campushub_api\controller\CourseController.class
+edu\ku\campushub_api\model\CourseInput.class
+edu\ku\campushub_api\model\Course.class
